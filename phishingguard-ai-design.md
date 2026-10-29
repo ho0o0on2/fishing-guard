@@ -2,7 +2,7 @@
 
 | 항목 | 내용 |
 | --- | --- |
-| 문서 URL | https://claude.ai/artifact/JqJhuMGcY1C7rfcy1QudPc |
+| 문서 URL | (https://github.com/ho0o0on2/fishing-guard) |
 | 작성자 | 이재훈 (정보보안학과, 20230861) |
 | 작성일 | 2026-10-29 |
 | 버전 | v0.1 (초안) |
